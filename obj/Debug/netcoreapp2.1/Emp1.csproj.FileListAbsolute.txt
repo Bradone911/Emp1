@@ -1,0 +1,11 @@
+C:\Development\Emp1\bin\Debug\netcoreapp2.1\Emp1.deps.json
+C:\Development\Emp1\bin\Debug\netcoreapp2.1\Emp1.runtimeconfig.json
+C:\Development\Emp1\bin\Debug\netcoreapp2.1\Emp1.runtimeconfig.dev.json
+C:\Development\Emp1\bin\Debug\netcoreapp2.1\Emp1.dll
+C:\Development\Emp1\bin\Debug\netcoreapp2.1\Emp1.pdb
+C:\Development\Emp1\obj\Debug\netcoreapp2.1\Emp1.csprojAssemblyReference.cache
+C:\Development\Emp1\obj\Debug\netcoreapp2.1\Emp1.csproj.CoreCompileInputs.cache
+C:\Development\Emp1\obj\Debug\netcoreapp2.1\Emp1.AssemblyInfoInputs.cache
+C:\Development\Emp1\obj\Debug\netcoreapp2.1\Emp1.AssemblyInfo.cs
+C:\Development\Emp1\obj\Debug\netcoreapp2.1\Emp1.dll
+C:\Development\Emp1\obj\Debug\netcoreapp2.1\Emp1.pdb
